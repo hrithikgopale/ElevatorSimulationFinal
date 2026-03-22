@@ -23,6 +23,6 @@ This project simulates an elevator system built in Unity. It handles floor selec
 2. Open main scene
 3. Press Play
 
-##  SubmissionUnity Package included separately
+##  Submission 
 
 * Unity Package included separately
